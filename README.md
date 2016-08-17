@@ -1,0 +1,3 @@
+# ruby_class
+This repository is for ruby class
+Just spme exercises files...
